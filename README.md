@@ -1,4 +1,4 @@
-# Introduction to Data Science with Python
+# Introduction to Data Science with Python - edit for class on July8_SANMAN_MEHTA
 In this [Houston Data Science][1] meetup we will introduce our members to data science using the Python programming language.
 
 ## Objectives
